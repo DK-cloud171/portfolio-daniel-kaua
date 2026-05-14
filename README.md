@@ -1,6 +1,6 @@
-# portfolio-daniel-kaua
+# portfolio-daniel-kaua-muziz-de-souza
 
-# Daniel Kauã Nunes de Souza
+# Daniel Kauã Muniz de Souza
 > Estudante de Tecnologia da Informação
 
 ---
