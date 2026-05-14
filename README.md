@@ -1,7 +1,7 @@
 # portfolio-daniel-kaua
 
 # Daniel Kauã Nunes de Souza
-> Estudante de Engenharia de Software
+> Estudante de Tecnologia da Informação
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Engenharia de Software na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
+Atualmente cursando o 1º período de Tecnologia Da informação na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
 
 * **Habilidades Técnicas:** Python, Colab, Visual Studio Code.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
